@@ -1,2 +1,2 @@
 # temporal-sat
-Temporal based distributed SAT soiver
+Temporal based distributed SAT solver
